@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🦁 Arif Qasim
 
-<!--
-**Zoromorake/Zoromorake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Codes to make cool shit`**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects
+Most of my projects are currently private projects, so contact me if you're interested in what I'm developing!
+That said, feel free to check out my data sciene and machine learning projects that I use to keep my skills fresh in that area.
+
+---
+### Languages & Tools
+Python | C | C## | Java 
